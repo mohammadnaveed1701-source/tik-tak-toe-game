@@ -35,10 +35,10 @@ The game can be restarted using Reset or New Game buttons.
 📂 Project Structure
 Tic-Tac-Toe/
 │
-├── index.html      # HTML structure
-├── style.css       # Styling and layout
-├── app.js          # Game logic
-└── README.md       # Project documentation
+├── index.html      
+├── style.css       
+├── app.js          
+└── README.md      
 
    Learning Outcomes
 
