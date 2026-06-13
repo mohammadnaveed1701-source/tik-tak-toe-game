@@ -261,7 +261,7 @@ Passionate about Frontend Development, Full Stack Engineering, Java Technologies
 
 ### Connect With Me
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/mohammadnaveed1701-source
 
 LinkedIn: https: https://www.linkedin.com/in/mohammad-naveed-5294b2333/
 
