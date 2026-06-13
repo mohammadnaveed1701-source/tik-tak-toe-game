@@ -9,6 +9,15 @@
 <body>
     <main>
         <h1>TIK TAK TOE</h1>
+
+        <div class="controls">
+            <div class="turn">Turn: <span id="turn-indicator">X</span></div>
+            <div class="buttons">
+                <button id="new-btn">New Game</button>
+                <button id="reset-btn">Reset</button>
+            </div>
+        </div>
+
         <div class="container">
             <div class="game">
                 <button class="box"></button>
@@ -22,7 +31,11 @@
                 <button class="box"></button>
             </div>
         </div>
-        <button id="reset-btn">Reset Game</button>
+
+        <div class="msg-container hide">
+            <div id="msg"></div>
+            <button id="play-again">Play Again</button>
+        </div>
     </main>
     <script src="app.js"></script>
 </body>
